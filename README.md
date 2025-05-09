@@ -19,4 +19,14 @@ Using **CFD simulations**, our team is evaluating and comparing various heat exc
 👉 **[View the project on GitHub](https://github.com/estebanlabrador/Tritium-Extraction-Unit)**
 
 
+## ❄️ Cascade Refrigeration with NH₃ and CO₂ (Thermodynamics Project)
+
+> **How can we improve refrigeration efficiency using environmentally friendly refrigerants?**
+
+This project models a **cascade vapor-compression refrigeration system** using ammonia and carbon dioxide—two natural refrigerants with low global warming potential. We conducted a **parametric study** to evaluate how system performance changes with **intermediate temperature**, **subcooling**, and **ambient conditions**.
+
+By simulating the cycle in **MATLAB**, we found that **lowering the intermediate temperature** significantly improves COP and reduces the mass flow of ammonia, due to its superior refrigerant properties. Our results offer insights into the design of **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
+
+👉 **[View the project on GitHub]()**
+
 

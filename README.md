@@ -23,9 +23,26 @@ Using **CFD simulations**, our team is evaluating and comparing various heat exc
 
 > **How can we improve refrigeration efficiency using environmentally friendly refrigerants?**
 
-This project models a **cascade vapor-compression refrigeration system** using ammonia and carbon dioxide—two natural refrigerants with low global warming potential. We conducted a **parametric study** to evaluate how system performance changes with **intermediate temperature**, **subcooling**, and **ambient conditions**.
+This project models a **cascade vapor-compression refrigeration system** using ammonia and carbon dioxide—two natural refrigerants with low global warming potential. I conducted a **parametric study** to evaluate how system performance changes with **intermediate temperature**, **subcooling**, **superheating**, and **ambient conditions**.
 
-By simulating the cycle in **MATLAB**, we found that **lowering the intermediate temperature** significantly improves COP and reduces the mass flow of ammonia, due to its superior refrigerant properties. Our results offer insights into the design of **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
+By simulating the cycle in **CoolProp**, we found that **lowering the intermediate temperature** significantly improves COP and reduces the mass flow of ammonia, due to its superior refrigerant properties. Our results offer insights into the design of **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
+
+## ❄️ Cascade Refrigeration with NH₃ and CO₂ (Thermodynamics Project)
+
+> **How can we improve refrigeration efficiency using environmentally friendly refrigerants?**
+
+This project models a **cascade vapor-compression refrigeration system** using ammonia (NH₃) and carbon dioxide (CO₂)—two natural refrigerants with low global warming potential. We conducted a **parametric study** to evaluate how system performance changes with **intermediate temperature**, **subcooling**, and **ambient conditions**.
+
+We first simulated a simple NH₃ cycle with an evaporation temperature of \(-35^\circ\)C and a condensation temperature of \(50^\circ\)C, resulting in a COP of 1.79. Under the same conditions, the **cascade system achieved a COP of 1.829**, showing a measurable improvement.
+
+Through MATLAB-based modeling, we observed that:
+- **Lower intermediate temperatures** increase COP and reduce NH₃ mass flow due to its superior thermodynamic properties.
+- **Subcooling** improves performance by reducing NH₃ mass flow and increasing COP.
+- **Colder ambient temperatures** and **warmer refrigerated spaces** both improve overall efficiency.
+
+Our findings offer insights into designing **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
+
+👉 **[View the project on GitHub](https://github.com/yourusername/refrigeration-cascade-project)**
 
 👉 **[View the project on GitHub]()**
 

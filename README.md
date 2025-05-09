@@ -14,7 +14,7 @@ Click this link to see my work https://github.com/estebanlabrador/Tritium-Extrac
 
 I'm a Mechanical Engineer currently completing a dual Master’s degree in **Advanced Energy Technologies** at **UC Berkeley** and the **Polytechnic University of Madrid**. My work lies at the intersection of **thermal systems**, **CFD**, and **product design**—where precision meets innovation.
 
-I bring a strong and broad educational background, balanced with hands-on experience in **thermal modeling**, **computational fluid dynamics**, **CAD**, **manufacturing**, and **prototyping**. My passion lies in solving complex energy and thermal challenges through practical, systems-oriented engineering.
+I bring a strong and broad educational background, balanced with hands-on experience in **thermal modeling**,**FEA**, **computational fluid dynamics**, **CAD**, **manufacturing**, and **prototyping**. My passion lies in solving complex energy and thermal challenges through practical, systems-oriented engineering.
 
 I'm actively seeking opportunities to contribute to **cutting-edge hardware design**, particularly in fields related to **thermal management**, **energy systems**, or **clean technology**.
 

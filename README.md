@@ -34,6 +34,6 @@ Through MATLAB-based modeling, we observed that:
 
 Our findings offer insights into designing **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
 
-👉 **[View the project on GitHub]()**
+👉 **[View the project on GitHub](https://github.com/estebanlabrador/Cascade-Refrigeration)**
 
 

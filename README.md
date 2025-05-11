@@ -34,8 +34,8 @@ This project models a **cascade vapor-compression refrigeration system** using a
 ## 🛠️ Compressed Air Engine – Motor.ola (Mechanical Design & Fabrication Project)  
 > **Can we build a fully operational engine from scratch using compressed air and innovative design?**
 
-Inspired by INNengine's opposed-piston architecture, this project challenged us to **design**, **manufacture**, and **test** a **4-cylinder compressed air engine**. From casting and machining custom components to implementing torque and RPM sensors using Arduino, our team delivered a functional prototype after several years of failed attempts in past cohorts.
+Inspired by INNengine’s opposed-piston architecture, this project set out to **design**, **manufacture**, and **test** a **4-cylinder compressed air engine**. Our team successfully delivered a functional prototype through rigorous mechanical design, hands-on fabrication, and iterative problem-solving, after several years of failed attempts in past cohorts.
 
-We combined hands-on manufacturing with real-time instrumentation, performance testing, and problem-solving to create a working system. This project reflects deep engagement in mechanical design, systems integration, and practical prototyping.
+This project reflects my experience in **mechanical systems design**, **manufacturing**, **instrumentation**, and **practical prototyping**—delivering results where many attempts had previously failed.
 
 👉 [View the project on GitHub](https://github.com/yourusername/motorola-compressed-air-engine)

@@ -38,4 +38,4 @@ Inspired by INNengine’s opposed-piston architecture, this project set out to *
 
 This project reflects my experience in **mechanical systems design**, **manufacturing**, **instrumentation**, and **practical prototyping**—delivering results where many attempts had previously failed.
 
-👉 [View the project on GitHub](https://github.com/yourusername/motorola-compressed-air-engine)
+👉 [View the project on GitHub](https://github.com/estebanlabrador/Motorola)

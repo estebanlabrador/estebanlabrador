@@ -23,7 +23,7 @@ Using **CFD simulations**, our team is evaluating and comparing various heat exc
 
 > **How can we improve refrigeration efficiency using environmentally friendly refrigerants?**
 
-This project models a **cascade vapor-compression refrigeration system** using ammonia (NH₃) and carbon dioxide (CO₂)—two natural refrigerants with low global warming potential. We conducted a **parametric study** to evaluate how system performance changes with **intermediate temperature**, **subcooling**, and **ambient conditions**.
+This project models a **cascade vapor-compression refrigeration system** using ammonia (NH₃) and carbon dioxide (CO₂)—two natural refrigerants with low global warming potential. I conducted a **parametric study** to evaluate how system performance changes with **intermediate temperature**, **subcooling**, and **ambient conditions**.
 
 
 👉 **[View the project on GitHub](https://github.com/estebanlabrador/Cascade-Refrigeration)**

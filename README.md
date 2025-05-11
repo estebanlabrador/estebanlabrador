@@ -18,6 +18,7 @@ Using **CFD simulations**, our team is evaluating and comparing various heat exc
 
 👉 **[View the project on GitHub](https://github.com/estebanlabrador/Tritium-Extraction-Unit)**
 
+---
 
 ## ❄️ Cascade Refrigeration with NH₃ and CO₂ (Thermodynamics Project)
 
@@ -28,4 +29,12 @@ This project models a **cascade vapor-compression refrigeration system** using a
 
 👉 **[View the project on GitHub](https://github.com/estebanlabrador/Cascade-Refrigeration)**
 
+---
+
+🛠️ Compressed Air Engine – Motor.ola (Mechanical Design & Manufacturing Project)  
+How do we design and fabricate a non-conventional engine that runs on compressed air?
+
+This project features a complete mechanical design and physical build of a 4-cylinder, opposed-piston air engine inspired by INNengine. I led key aspects of the manufacturing process—from aluminum casting and precision machining to Arduino-based instrumentation for torque and RPM measurement.
+
+👉 [View the project on GitHub](https://github.com/yourusername/motorola-compressed-air-engine)
 

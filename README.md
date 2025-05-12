@@ -8,7 +8,7 @@ I'm actively seeking opportunities to contribute to **cutting-edge hardware desi
 
 ---
 
-## 📄 Tritium Extraction using Compact Heat Exchangers (Capstone Project)
+## 📄 Tritium Extraction using Compact Heat Exchangers 
 
 > **Fusion power promises a clean, nearly limitless energy source—but the tritium fuel cycle is a critical challenge.**
 
@@ -20,7 +20,7 @@ Using **CFD simulations**, our team is evaluating and comparing various heat exc
 
 ---
 
-## ❄️ Cascade Refrigeration with NH₃ and CO₂ (Thermodynamics Project)
+## ❄️ Cascade Refrigeration with NH₃ and CO₂ 
 
 > **How can we improve refrigeration efficiency using environmentally friendly refrigerants?**
 
@@ -31,7 +31,7 @@ This project models a **cascade vapor-compression refrigeration system** using a
 
 ---
 
-## 🛠️ Compressed Air Engine – Motor.ola (Mechanical Design & Fabrication Project)  
+## 🛠️ Compressed Air Engine 
 > **Can we build a fully operational engine from scratch using compressed air and innovative design?**
 
 Inspired by INNengine’s opposed-piston architecture, this project set out to **design**, **manufacture**, and **test** a **4-cylinder compressed air engine**. Our team successfully delivered a functional prototype through rigorous mechanical design, hands-on fabrication, and iterative problem-solving, after several years of failed attempts in past cohorts.

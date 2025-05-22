@@ -39,3 +39,15 @@ Inspired by INNengine’s opposed-piston architecture, this project set out to *
 This project reflects my experience in **mechanical systems design**, **manufacturing**, **instrumentation**, and **practical prototyping**—delivering results where many attempts had previously failed.
 
 👉 **[View the project on GitHub](https://github.com/estebanlabrador/Motorola)**
+
+---
+
+## 📄 Reactive Transport Modeling in Combustion Systems
+
+> **Understanding and controlling combustion is essential for advancing clean energy and propulsion technologies.**
+
+In this research collaboration, I worked on numerically modeling **1D reactive transport phenomena** including **diffusion**, **convection**, and **reaction** using various **time integration schemes**. Through simulations of systems like the **Brusselator**, **Van der Pol oscillator**, and **hydrogen flame dynamics**, we investigated the **stability, accuracy, and performance** of **explicit**, **implicit**, and **Chebyshev-based Runge-Kutta (RKC)** schemes.
+
+This work built a robust numerical foundation for studying **combustion fronts**, **detonation phenomena**, and **reactive eigenvalue stability**—key tools for energy system optimization and flame control.
+
+👉 **[View the project on GitHub](https://github.com/estebanlabrador/Tritium-Extraction-Unit)**

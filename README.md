@@ -8,7 +8,7 @@ I'm actively seeking opportunities to contribute to **cutting-edge hardware desi
 
 ---
 
-## 📄 Tritium Extraction using Compact Heat Exchangers 
+## ⚛️ Tritium Extraction using Compact Heat Exchangers 
 
 > **Fusion power promises a clean, nearly limitless energy source—but the tritium fuel cycle is a critical challenge.**
 

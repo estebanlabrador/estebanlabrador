@@ -50,4 +50,4 @@ In this research collaboration, I worked on numerically modeling **1D reactive t
 
 This work built a robust numerical foundation for studying **combustion fronts**, **detonation phenomena**, and **reactive eigenvalue stability**—key tools for energy system optimization and flame control.
 
-👉 **[View the project on GitHub](https://github.com/estebanlabrador/Tritium-Extraction-Unit)**
+👉 **[View the project on GitHub](https://github.com/estebanlabrador/Combustion)**

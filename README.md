@@ -42,7 +42,7 @@ This project reflects my experience in **mechanical systems design**, **manufact
 
 ---
 
-## 📄 Reactive Transport Modeling in Combustion Systems
+## 🔥 Reactive Transport Modeling in Combustion Systems
 
 > **Understanding and controlling combustion is essential for advancing clean energy and propulsion technologies.**
 

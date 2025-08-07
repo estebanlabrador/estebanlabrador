@@ -67,7 +67,7 @@ I developed a **1D MATLAB simulation** of a **Proton Exchange Membrane Fuel Cell
 
 This project showcases my skills in **numerical modeling**, **energy systems**, and **hydrogen technology**, and contributes to a deeper understanding of how to optimize fuel cells for real-world energy applications.
 
-👉 **View the project on GitHub** _(link placeholder)_
+👉 **[View the project on GitHub](https://github.com/estebanlabrador/Hydrogen-Fuel-Cell-Modeling)**
 
 ---
 

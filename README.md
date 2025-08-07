@@ -2,7 +2,7 @@
 
 I’m a **Project Engineer** at **Chart Industries**, currently in a rotational program working on **air-cooled heat exchangers**. My work involves managing **Bills of Materials** and using tools like **JD Edwards** to support efficient project execution.
 
-🎓 I hold a **dual Master’s degree in Advanced Energy Technologies** from  
+🎓 I hold a **dual Master’s degree Mechanical Engineering specialized in Energy Technologies** from  
 **UC Berkeley** and the **Polytechnic University of Madrid**.
 
 🔧 My technical interests and skills include:
@@ -10,6 +10,7 @@ I’m a **Project Engineer** at **Chart Industries**, currently in a rotational 
 - **CAD Design** | **Thermal Modeling** | **Prototyping** | **Manufacturing**
 
 💡 I'm a hardworking, communicative, and passionate engineer, driven to make a real impact in the **energy industry**, especially in areas related to **thermal management**, **energy systems**, and **clean technology**.
+
 ---
 
 ## ⚛️ Tritium Extraction using Compact Heat Exchangers 

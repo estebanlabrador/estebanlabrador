@@ -56,3 +56,32 @@ In this research collaboration, I worked on numerically modeling **1D reactive t
 This work built a robust numerical foundation for studying **combustion fronts**, **detonation phenomena**, and **reactive eigenvalue stability**—key tools for energy system optimization and flame control.
 
 👉 **[View the project on GitHub](https://github.com/estebanlabrador/Combustion)**
+
+---
+
+## ⚡ Hydrogen Fuel Cell Modeling
+
+> **Understanding hydrogen fuel cells’ internal behavior is essential for improving efficiency and advancing the clean energy transition.**
+
+I developed a **1D MATLAB simulation** of a **Proton Exchange Membrane Fuel Cell (PEMFC)** that models the transport of gases, heat, and electric charge across its seven-layer structure. The model involves a **highly nonlinear system** that is complex to solve, enabling analysis of how design choices and operating conditions influence fuel cell efficiency.
+
+This project showcases my skills in **numerical modeling**, **energy systems**, and **hydrogen technology**, and contributes to a deeper understanding of how to optimize fuel cells for real-world energy applications.
+
+👉 **View the project on GitHub** _(link placeholder)_
+
+---
+
+## 🧩 SolidWorks Models and Product Design
+
+> **From concept to CAD: turning ideas into engineered solutions.**
+
+This section showcases a selection of **SolidWorks models** I’ve developed across various projects, including:
+- **Mechanical assemblies** (gear systems, actuators)
+- **Thermal components** (heat exchangers, engine parts)
+- **Prototypes** (enclosures, structural frames)
+
+These models reflect my skills in **3D design**, **GD&T**, **design for manufacturability**, and **simulation-driven design**.
+
+👉 **[View the SolidWorks models](https://github.com/estebanlabrador/SolidWorks-Portfolio)** _(link placeholder)_
+
+---

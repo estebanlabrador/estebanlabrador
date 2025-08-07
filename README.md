@@ -1,11 +1,15 @@
 ## 👋 About Me
 
-I'm a Mechanical Engineer currently completing a dual Master’s degree in **Advanced Energy Technologies** at **UC Berkeley** and the **Polytechnic University of Madrid**. My work lies at the intersection of **thermal systems**, **CFD**, and **product design**—where precision meets innovation.
+I’m a **Project Engineer** at **Chart Industries**, currently in a rotational program working on **air-cooled heat exchangers**. My work involves managing **Bills of Materials** and using tools like **JD Edwards** to support efficient project execution.
 
-I bring a strong and broad educational background, balanced with hands-on experience in **thermal modeling**, **FEA**, **computational fluid dynamics**, **CAD**, **manufacturing**, and **prototyping**. My passion lies in solving complex energy and thermal challenges through practical, systems-oriented engineering.
+🎓 I hold a **dual Master’s degree in Advanced Energy Technologies** from  
+**UC Berkeley** and the **Polytechnic University of Madrid**.
 
-I'm actively seeking opportunities to contribute to **cutting-edge hardware design**, particularly in fields related to **thermal management**, **energy systems**, or **clean technology**.
+🔧 My technical interests and skills include:
+- **Thermal Systems** | **Computational Fluid Dynamics (CFD)** | **FEA**
+- **CAD Design** | **Thermal Modeling** | **Prototyping** | **Manufacturing**
 
+💡 I'm a hardworking, communicative, and passionate engineer, driven to make a real impact in the **energy industry**, especially in areas related to **thermal management**, **energy systems**, and **clean technology**.
 ---
 
 ## ⚛️ Tritium Extraction using Compact Heat Exchangers 

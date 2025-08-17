@@ -1,15 +1,18 @@
 ## 👋 About Me
 
-I’m a **Project Engineer** at **Chart Industries**, currently in a rotational program working on **air-cooled heat exchangers**. My work involves managing **Bills of Materials** and using tools like **JD Edwards** to support efficient project execution.
+I’m a **Project Engineer** at **Chart Industries**, currently in a rotational program working on **air-cooled heat exchangers**. Where I collaborate with design, manufacturing, supply chain, and QA teams to ensure air-cooled heat exchanger projects met stakeholder expectations.
 
 🎓 I hold a **dual Master’s degree Mechanical Engineering specialized in Energy Technologies** from  
 **UC Berkeley** and the **Polytechnic University of Madrid**.
 
 🔧 My technical interests and skills include:
-- **Thermal Systems** | **Computational Fluid Dynamics (CFD)** | **FEA**
-- **CAD Design** | **Thermal Modeling** | **Prototyping** | **Manufacturing**
+- **Project & Process**: Lean Six Sigma (Yellow Belt), API & ASME standards, cross-functional project management
+- **Thermal & Energy Systems**: Heat exchanger design, refrigeration cycles, electronics cooling, renewable energy systems
+- **Modeling & Simulation**: Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA), thermal modeling, multiphysics simulation
+- **Design & Prototyping**: CAD (SolidWorks, SolidEdge), rapid prototyping, CNC machining, experimental testing & validation
+- **Software & Tools**: STAR-CCM+, ANSYS, COMSOL, MATLAB/Simulink, MS Project, Microsoft Office
 
-💡 I'm a hardworking, communicative, and passionate engineer, driven to make a real impact in the **energy industry**, especially in areas related to **thermal management**, **energy systems**, and **clean technology**.
+💡 With **strong attention to detail** and a **curiosity-driven mindset**, I approach every project with **initiative** and **adaptability**. I am **fast learner** and **proactive** and work hard to consistently deliver **high-quality results** recognized by peers and supervisors while thriving in collaborative, cross-disciplinary environments.
 
 ---
 
